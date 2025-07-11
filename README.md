@@ -17,7 +17,8 @@ A clean and simple to-do list app built with **React** and **Vite**. It lets use
 
 ## 📸 Screenshot
 
-![Screenshot](./screenshot.png) <!-- Add a screenshot to your project folder and name it screenshot.png -->
+![App Screenshot](./public/screenshot.png)
+
 
 ---
 
