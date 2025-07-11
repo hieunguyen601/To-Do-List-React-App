@@ -41,5 +41,3 @@ A clean and simple to-do list app built with **React** and **Vite**. It lets use
 
 ---
 
-## 📁 Project Structure
-
